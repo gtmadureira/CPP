@@ -1,0 +1,10 @@
+{
+    "editor.wordWrap": "on",
+    "editor.rulers": [120],
+    "cSpell.enabled": false,
+    "cSpell.language": "en-US",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    }
+}
